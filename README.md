@@ -26,14 +26,8 @@
 ![docker](https://img.shields.io/badge/-docker-6495ED?style=for-the-badge&logo=docker&logoColor=white)
 ![api](https://img.shields.io/badge/-api-800080?style=for-the-badge&logo=api&logoColor=white)
 ![scraping](https://img.shields.io/badge/-scraping-BC8F8F?style=for-the-badge&logo=scraping&logoColor=white)
-
-### Pet-projects 
-
 ### Education 
-
-
+### Certifications 
+### Pet-projects 
 ### Hackathon participation 
 
-### Certifications 
-
-### Github Stats 
