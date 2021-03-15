@@ -1,5 +1,5 @@
 ![](https://github.com/remarkASS97/remarkASS97/blob/main/ass.png)
-### Hi 👋 My name is Anton!<img src="https://github.com/remarkASS97/remarkASS97/blob/main/party_parrot.gif" width="30px"> And 
+### Hi 👋 My name is Anton! <img src="https://github.com/remarkASS97/remarkASS97/blob/main/party_parrot.gif" width="30px"> And 
 ### My Stack 
 ![Python](https://img.shields.io/badge/-Python-FFE4E1?style=for-the-badge&logo=python)
 ![R](https://img.shields.io/badge/-R-2216a6?style=for-the-badge&logo=r&logoColor=white)
