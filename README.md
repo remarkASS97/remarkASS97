@@ -14,7 +14,7 @@
 ![plotly](https://img.shields.io/badge/-plotly-090909?style=for-the-badge&logo=plotly)
 ![bokeh](https://img.shields.io/badge/-bokeh-090909?style=for-the-badge&logo=bokeh)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-090909?style=for-the-badge&logo=XGBoost)
-![scikit-learn](https://img.shields.io/badge/-scikitlearn-090909?style=for-the-badge&logo=)
+![scikit-learn](https://img.shields.io/badge/-scikitlearn-090909?style=for-the-badge&logo=sklearn)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-090909?style=for-the-badge&logo=tensorflow)
 
 ![powerbi](https://img.shields.io/badge/-powerbi-090909?style=for-the-badge&logo=powerbi)
