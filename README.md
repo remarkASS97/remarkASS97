@@ -1,7 +1,7 @@
 ![](https://github.com/remarkASS97/remarkASS97/blob/main/ass.png)
 ### Hi 👋 My name is Anton. And 
 ### My Stack 
-![Python](https://img.shields.io/badge/-Python-FFE4E1?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/-Python-FFE4E1?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-2216a6?style=for-the-badge&logo=r)
 ![SQL](https://img.shields.io/badge/-SQL-16a69c?style=for-the-badge&logo=mysql)
 
