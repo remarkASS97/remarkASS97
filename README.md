@@ -17,8 +17,8 @@
 ![scikit-learn](https://img.shields.io/badge/-scikitlearn-D2691E?style=for-the-badge&logo=scikit-learn)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-8B008B?style=for-the-badge&logo=tensorflow)
 
-![powerbi](https://img.shields.io/badge/-powerbi-090909?style=for-the-badge&logo=PowerBi)
-![tableau](https://img.shields.io/badge/-tableau-090909?style=for-the-badge&logo=tableau)
+![powerbi](https://img.shields.io/badge/-powerbi-98FB98?style=for-the-badge&logo=PowerBi)
+![tableau](https://img.shields.io/badge/-tableau-4682B4?style=for-the-badge&logo=tableau)
 
 ![git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)
 ![github](https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=github)
