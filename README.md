@@ -1,4 +1,4 @@
-![](https://github.com/remarkASS97/remarkASS97/blob/main/as.png)
+![](https://github.com/remarkASS97/remarkASS97/blob/main/ass.png)
 ### Hi there 👋
 ### Skills 🛠️
 
