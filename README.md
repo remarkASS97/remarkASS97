@@ -3,7 +3,7 @@
 ### Skills 
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
 ![R](https://img.shields.io/badge/-R-090909?style=for-the-badge&logo=r)
-![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=SQL)
+![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql)
 ![Pandas](https://img.shields.io/badge/-Pandas-090909?style=for-the-badge&logo=pandas)
 ![](https://img.shields.io/badge/--090909?style=for-the-badge&logo=)
 ![](https://img.shields.io/badge/--090909?style=for-the-badge&logo=)
