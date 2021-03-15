@@ -5,7 +5,7 @@
 ![R](https://img.shields.io/badge/-R-2216a6?style=for-the-badge&logo=r)
 ![SQL](https://img.shields.io/badge/-SQL-16a69c?style=for-the-badge&logo=mysql)
 
-![Pandas](https://img.shields.io/badge/-Pandas-96bdd4?style=for-the-badge&logo=pandas)
+![Pandas](https://img.shields.io/badge/-Pandas-96bdd4?style=for-the-badge&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/-Numpy-B0C4DE?style=for-the-badge&logo=Numpy)
 ![Scipy](https://img.shields.io/badge/-Scipy-7B68EE?style=for-the-badge&logo=Scipy)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-FA8072?style=for-the-badge&logo=Matplotlib)
