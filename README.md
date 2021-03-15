@@ -27,7 +27,7 @@
 ![api](https://img.shields.io/badge/-api-800080?style=for-the-badge&logo=api&logoColor=white)
 ![scraping](https://img.shields.io/badge/-scraping-BC8F8F?style=for-the-badge&logo=scraping&logoColor=white)
 ### Education 👨‍🎓
-### Certifications 
-### Pet-projects 
+### Certifications 💼
+### Pet-projects 👨‍🏫
 ### Hackathon participation 👨‍💻
 
