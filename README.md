@@ -20,13 +20,12 @@
 ![powerbi](https://img.shields.io/badge/-powerbi-98FB98?style=for-the-badge&logo=PowerBi)
 ![tableau](https://img.shields.io/badge/-tableau-B0E0E6?style=for-the-badge&logo=tableau)
 
-![git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)
-![github](https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=github)
-![dvc](https://img.shields.io/badge/-dvc-090909?style=for-the-badge&logo=dvc)
-![docker](https://img.shields.io/badge/-docker-090909?style=for-the-badge&logo=docker)
-![api](https://img.shields.io/badge/-api-090909?style=for-the-badge&logo=api)
-![scraping](https://img.shields.io/badge/-scraping-090909?style=for-the-badge&logo=scraping)
-![](https://img.shields.io/badge/--090909?style=for-the-badge&logo=)
+![git](https://img.shields.io/badge/-git-FF4500?style=for-the-badge&logo=git)
+![github](https://img.shields.io/badge/-github-483D8B?style=for-the-badge&logo=github)
+![dvc](https://img.shields.io/badge/-dvc-98FB98?style=for-the-badge&logo=dvc)
+![docker](https://img.shields.io/badge/-docker-6495ED?style=for-the-badge&logo=docker)
+![api](https://img.shields.io/badge/-api-800080?style=for-the-badge&logo=api)
+![scraping](https://img.shields.io/badge/-scraping-BC8F8F?style=for-the-badge&logo=scraping)
 
 ### Pet-projects 
 
