@@ -1,13 +1,13 @@
 ![](https://github.com/remarkASS97/remarkASS97/blob/main/ass.png)
 ### Hi 👋 My name is Anton. And 
 ### My Stack 
-![Python](https://img.shields.io/badge/-Python-ffe500?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/-Python-FFE4E1?style=for-the-badge&logo=python)
 ![R](https://img.shields.io/badge/-R-2216a6?style=for-the-badge&logo=r)
 ![SQL](https://img.shields.io/badge/-SQL-16a69c?style=for-the-badge&logo=mysql)
 
 ![Pandas](https://img.shields.io/badge/-Pandas-96bdd4?style=for-the-badge&logo=pandas)
-![Numpy](https://img.shields.io/badge/-Numpy-090909?style=for-the-badge&logo=Numpy)
-![Scipy](https://img.shields.io/badge/-Scipy-090909?style=for-the-badge&logo=Scipy)
+![Numpy](https://img.shields.io/badge/-Numpy-B0C4DE?style=for-the-badge&logo=Numpy)
+![Scipy](https://img.shields.io/badge/-Scipy-7B68EE?style=for-the-badge&logo=Scipy)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-090909?style=for-the-badge&logo=Matplotlib)
 ![seaborn](https://img.shields.io/badge/-seaborn-090909?style=for-the-badge&logo=seaborn)
 ![statsmodels](https://img.shields.io/badge/-statsmodels-090909?style=for-the-badge&logo=statsmodels)
