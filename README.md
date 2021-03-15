@@ -13,9 +13,9 @@
 ![statsmodels](https://img.shields.io/badge/-statsmodels-FFB6C1?style=for-the-badge&logo=statsmodels)
 ![plotly](https://img.shields.io/badge/-plotly-FFDEAD?style=for-the-badge&logo=plotly)
 ![bokeh](https://img.shields.io/badge/-bokeh-BC8F8F?style=for-the-badge&logo=bokeh)
-![XGBoost](https://img.shields.io/badge/-XGBoost-090909?style=for-the-badge&logo=XGBoost)
-![scikit-learn](https://img.shields.io/badge/-scikitlearn-090909?style=for-the-badge&logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-090909?style=for-the-badge&logo=tensorflow)
+![XGBoost](https://img.shields.io/badge/-XGBoost-A52A2A?style=for-the-badge&logo=XGBoost)
+![scikit-learn](https://img.shields.io/badge/-scikitlearn-D2691E?style=for-the-badge&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-8B008B?style=for-the-badge&logo=tensorflow)
 
 ![powerbi](https://img.shields.io/badge/-powerbi-090909?style=for-the-badge&logo=PowerBi)
 ![tableau](https://img.shields.io/badge/-tableau-090909?style=for-the-badge&logo=tableau)
