@@ -4,6 +4,7 @@
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
 ![R](https://img.shields.io/badge/-R-090909?style=for-the-badge&logo=r)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql)
+
 ![Pandas](https://img.shields.io/badge/-Pandas-090909?style=for-the-badge&logo=pandas)
 ![Numpy](https://img.shields.io/badge/-Numpy-090909?style=for-the-badge&logo=Numpy)
 ![Scipy](https://img.shields.io/badge/-Scipy-090909?style=for-the-badge&logo=Scipy)
@@ -14,11 +15,9 @@
 ![bokeh](https://img.shields.io/badge/-bokeh-090909?style=for-the-badge&logo=bokeh)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-090909?style=for-the-badge&logo=XGBoost)
 ![scikit-learn](https://img.shields.io/badge/-scikit-learn-090909?style=for-the-badge&logo=Scikit-learn)
-![](https://img.shields.io/badge/--090909?style=for-the-badge&logo=)
-![](https://img.shields.io/badge/--090909?style=for-the-badge&logo=)
-![](https://img.shields.io/badge/--090909?style=for-the-badge&logo=)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-090909?style=for-the-badge&logo=tensorflow)
-![](https://img.shields.io/badge/--090909?style=for-the-badge&logo=)
+
+![power bi](https://img.shields.io/badge/-power bi-090909?style=for-the-badge&logo=power bi)
 ![](https://img.shields.io/badge/--090909?style=for-the-badge&logo=)
 ![](https://img.shields.io/badge/--090909?style=for-the-badge&logo=)
 ![](https://img.shields.io/badge/--090909?style=for-the-badge&logo=)
