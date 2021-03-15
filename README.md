@@ -18,7 +18,7 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-090909?style=for-the-badge&logo=tensorflow)
 
 ![powerbi](https://img.shields.io/badge/-powerbi-090909?style=for-the-badge&logo=powerbi)
-![](https://img.shields.io/badge/--090909?style=for-the-badge&logo=)
+![tableau](https://img.shields.io/badge/-tableau-090909?style=for-the-badge&logo=tableau)
 ![](https://img.shields.io/badge/--090909?style=for-the-badge&logo=)
 ![](https://img.shields.io/badge/--090909?style=for-the-badge&logo=)
 ![](https://img.shields.io/badge/--090909?style=for-the-badge&logo=)
