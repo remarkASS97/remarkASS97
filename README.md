@@ -7,7 +7,7 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-090909?style=for-the-badge&logo=pandas)
 ![Numpy](https://img.shields.io/badge/-Numpy-090909?style=for-the-badge&logo=Numpy)
 ![Scipy](https://img.shields.io/badge/-Scipy-090909?style=for-the-badge&logo=Scipy)
-![scikit-learn](https://img.shields.io/badge/-scikit-learn-090909?style=for-the-badge&logo=scikit-learn)
+![scikit-learn](https://img.shields.io/badge/-scikit-learn-090909?style=for-the-badge&logo=Scikit-learn)
 ![](https://img.shields.io/badge/--090909?style=for-the-badge&logo=)
 ![](https://img.shields.io/badge/--090909?style=for-the-badge&logo=)
 ![](https://img.shields.io/badge/--090909?style=for-the-badge&logo=)
