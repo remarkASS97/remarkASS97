@@ -1,11 +1,11 @@
 ![](https://github.com/remarkASS97/remarkASS97/blob/main/ass.png)
-### Hi there 👋
-### Skills 
+### Hi 👋 My name is Anton. And 
+### My Stack 
 ![Python](https://img.shields.io/badge/-Python-ffe500?style=for-the-badge&logo=python)
 ![R](https://img.shields.io/badge/-R-2216a6?style=for-the-badge&logo=r)
 ![SQL](https://img.shields.io/badge/-SQL-16a69c?style=for-the-badge&logo=mysql)
 
-![Pandas](https://img.shields.io/badge/-Pandas-090909?style=for-the-badge&logo=pandas)
+![Pandas](https://img.shields.io/badge/-Pandas-96bdd4?style=for-the-badge&logo=pandas)
 ![Numpy](https://img.shields.io/badge/-Numpy-090909?style=for-the-badge&logo=Numpy)
 ![Scipy](https://img.shields.io/badge/-Scipy-090909?style=for-the-badge&logo=Scipy)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-090909?style=for-the-badge&logo=Matplotlib)
