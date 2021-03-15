@@ -19,10 +19,13 @@
 
 ![powerbi](https://img.shields.io/badge/-powerbi-090909?style=for-the-badge&logo=powerbi)
 ![tableau](https://img.shields.io/badge/-tableau-090909?style=for-the-badge&logo=tableau)
-![](https://img.shields.io/badge/--090909?style=for-the-badge&logo=)
-![](https://img.shields.io/badge/--090909?style=for-the-badge&logo=)
-![](https://img.shields.io/badge/--090909?style=for-the-badge&logo=)
-![](https://img.shields.io/badge/--090909?style=for-the-badge&logo=)
+
+![git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)
+![github](https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=github)
+![dvc](https://img.shields.io/badge/-dvc-090909?style=for-the-badge&logo=dvc)
+![docker](https://img.shields.io/badge/-docker-090909?style=for-the-badge&logo=docker)
+![api](https://img.shields.io/badge/-api-090909?style=for-the-badge&logo=api)
+![scraping](https://img.shields.io/badge/-scraping-090909?style=for-the-badge&logo=scraping)
 ![](https://img.shields.io/badge/--090909?style=for-the-badge&logo=)
 
 ### Pet-projects 
