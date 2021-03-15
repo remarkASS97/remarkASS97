@@ -1,9 +1,9 @@
 ![](https://github.com/remarkASS97/remarkASS97/blob/main/ass.png)
 ### Hi there 👋
 ### Skills 
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/-Python-ffe500?style=for-the-badge&logo=python)
 ![R](https://img.shields.io/badge/-R-120eeb?style=for-the-badge&logo=r)
-![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql)
+![SQL](https://img.shields.io/badge/-SQL-0af7f7?style=for-the-badge&logo=mysql)
 
 ![Pandas](https://img.shields.io/badge/-Pandas-090909?style=for-the-badge&logo=pandas)
 ![Numpy](https://img.shields.io/badge/-Numpy-090909?style=for-the-badge&logo=Numpy)
