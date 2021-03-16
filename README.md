@@ -32,9 +32,16 @@
 * Bachelor's degree in Applied Mathematics and Computer Science at [Plekhanov Russian University of Economics](https://www.rea.ru) (2015 - 2019)
 * Master’s degree in Big Data Ecosystem at [National University of Science and Technology MISiS](https://misis.ru) (2019 - not finished)
 ### Certifications 💼🎓
-* 
+*
+*
+*
+*
+*
 ### Pet-projects 👨‍🏫
-
+*
+*
+*
 ### Hackathon participation 👨‍💻
-
+*
+*
 
