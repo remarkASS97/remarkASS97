@@ -32,11 +32,11 @@
 * Bachelor's degree in Applied Mathematics and Computer Science at [Plekhanov Russian University of Economics](https://www.rea.ru) (2015 - 2019)
 * Master’s degree in Big Data Ecosystem at [National University of Science and Technology MISiS](https://misis.ru) (2019 - not finished)
 ### Certifications 💼🎓
-*
-*
-*
-*
-*
+* Специализация Машинное обучение и анализ данных, Яндекс и МФТИ
+* Анализ данных на Python в примерах и задачах (Аббакумов)
+* Нейронные сети и компьютерное зрение, Samsung Research
+* Python основы и применения
+* Основы статистики
 ### Pet-projects 👨‍🏫
 * Цифровая модель бизнес-процесса найма персонала
 * Определение фамилий из текстовых данных
