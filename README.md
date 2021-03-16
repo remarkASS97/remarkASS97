@@ -29,6 +29,8 @@
 ![api](https://img.shields.io/badge/-api-800080?style=for-the-badge&logo=api&logoColor=white)
 ![scraping](https://img.shields.io/badge/-scraping-BC8F8F?style=for-the-badge&logo=scraping&logoColor=white)
 ### Education 👨‍🎓
+⋅⋅*Bachelor's degree in Applied Mathematics and Computer Science at Plekhanov Russian University of Economics (2015 - 2019)
+⋅⋅*Master’s degree in 
 ### Certifications 💼🎓
 ### Pet-projects 👨‍🏫
 ### Hackathon participation 👨‍💻
