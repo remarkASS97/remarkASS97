@@ -6,7 +6,6 @@
 ![Python](https://img.shields.io/badge/-Python-FFE4E1?style=for-the-badge&logo=python)
 ![R](https://img.shields.io/badge/-R-2216a6?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-16a69c?style=for-the-badge&logo=mysql&logoColor=white)
-
 ![Pandas](https://img.shields.io/badge/-Pandas-96bdd4?style=for-the-badge&logo=pandas)
 ![Numpy](https://img.shields.io/badge/-Numpy-B0C4DE?style=for-the-badge&logo=Numpy)
 ![Scipy](https://img.shields.io/badge/-Scipy-7B68EE?style=for-the-badge&logo=Scipy)
@@ -18,10 +17,8 @@
 ![XGBoost](https://img.shields.io/badge/-XGBoost-A52A2A?style=for-the-badge&logo=xgboost)
 ![scikit-learn](https://img.shields.io/badge/-scikitlearn-D2691E?style=for-the-badge&logo=scikit-learn)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-8B008B?style=for-the-badge&logo=tensorflow)
-
 ![powerbi](https://img.shields.io/badge/-powerbi-98FB98?style=for-the-badge&logo=PowerBi)
 ![tableau](https://img.shields.io/badge/-tableau-B0E0E6?style=for-the-badge&logo=tableau)
-
 ![git](https://img.shields.io/badge/-git-FF4500?style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/-github-483D8B?style=for-the-badge&logo=github&logoColor=white)
 ![dvc](https://img.shields.io/badge/-dvc-98FB98?style=for-the-badge&logo=dvc&logoColor=white)
